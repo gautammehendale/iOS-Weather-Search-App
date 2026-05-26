@@ -23,7 +23,8 @@ A native iOS weather app built with Swift and SwiftUI that delivers real-time we
 
 ## Demo
 
-https://github.com/gautammehendale/iOS-Weather-Search-App-/raw/main/WeatherApp_Demo.mp4
+[https://github.com/gautammehendale/iOS-Weather-Search-App-/raw/main/WeatherApp_Demo.mp4](https://github.com/gautammehendale/iOS-Weather-Search-App/raw/main/WeatherApp_Demo.mp4
+)
 
 ---
 
